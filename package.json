@@ -1,0 +1,25 @@
+{
+  "name": "web-push-notifications",
+  "version": "1.0.0",
+  "description": "Learning about web push notifications",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osidekyle/web-push-notifications.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osidekyle/web-push-notifications/issues"
+  },
+  "homepage": "https://github.com/osidekyle/web-push-notifications#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "web-push": "^3.4.4"
+  }
+}
